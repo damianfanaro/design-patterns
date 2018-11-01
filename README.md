@@ -9,7 +9,7 @@ The implementations are heavily influenced by the book: **_[The Gang Of Four](ht
 
 Some patterns are also implemented using Lambda Expressions as an alternative.
 
-> Requires Java 8+
+> Requires Java 11+
 
 ### Patterns from the book: [Design Patterns, Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8#nav-subnav)
 
